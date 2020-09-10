@@ -12,5 +12,5 @@ a little game from gym, and using policy-gradient and actor-critic to train it
 (I just train for hundreds episodes using policy-gradient, so I dont know if it will reach the porper goal.But it works actually
 (the actor-critic will achieve what you want
 
-# 3)
+# 3) Pendulum
 another game from gym, and A3C to train it
